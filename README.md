@@ -1,2 +1,2 @@
-This is the ML applications for reputation management framework github repository.
-Contains the research pdf, Jupyter Python pipeline architecture notebook and main executable Python pipeline file. 
+These are the ML applications for the reputation management framework GitHub repository.
+Contains the research PDF, the Jupyter Python pipeline architecture notebook, and the main Python pipeline executable file. 
